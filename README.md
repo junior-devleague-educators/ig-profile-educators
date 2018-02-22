@@ -1,6 +1,6 @@
 # Welcome To Instagram!
 
-You will be recreating an Instagram profile! You may use any of your own photos from facebook, instagram or find any image online.
+You will be recreating an Instagram profile! You may use any of your own photos from facebook, instagram or find any image online. Below is an example of what an Instagram profile.
 
 ![instagram example](https://github.com/junior-devleague/ig-profile/raw/master/images/Example.png 'Instagram Example')
 
